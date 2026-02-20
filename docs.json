@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "Root-14",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#c95509",
+    "light": "#e77728",
+    "dark": "#983b04"
   },
   "favicon": "/favicon.svg",
   "navigation": {
